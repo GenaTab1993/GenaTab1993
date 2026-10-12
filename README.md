@@ -15,7 +15,7 @@ I am an **Electro-Optics Integration and Test Engineer** with a B.Sc. in Physics
 
 ## Key Projects
 
-### 🔗 [Multi-Instrument Automated LIV Test Executive]([https://github.com](https://github.com/GenaTab1993/Optical-Automation-LIV-Data-Engine))
+### 🔗 [Multi-Instrument Automated LIV Test Executive]([https://github.com](https://github.com/GenaTab1993/Optical-Automation-LIV-Data-Engine)
 *Automated sweep infrastructure, data analytics pipeline, and hardware design files.*
 
 *   **Multi-Threaded Control:** Built a concurrent architecture using Python's `threading.Event` to coordinate a Keithley SMU and a Keysight Optical Power Meter simultaneously, avoiding race conditions on the instrumentation bus.
@@ -26,7 +26,7 @@ I am an **Electro-Optics Integration and Test Engineer** with a B.Sc. in Physics
 
 ## Engineering Portfolio
 For my detailed cross-disciplinary hardware reports, design verifications, and complete laboratory logs across Electrical, Optical, and Automation domains:
-🔗 **[Read My Full Engineering Portfolio (Google Docs)]([https://google.com](https://docs.google.com/document/d/1Tb6pgupiTu2QQavw6dolYQGQl6Y3FALmsouG02qJByU/edit?usp=drive_link))**
+🔗 **[Read My Full Engineering Portfolio (Google Docs)]([https://google.com](https://docs.google.com/document/d/1Tb6pgupiTu2QQavw6dolYQGQl6Y3FALmsouG02qJByU/edit?usp=drive_link)**
 
 ---
 
