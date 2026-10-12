@@ -26,7 +26,7 @@ I am an **Electro-Optics Integration and Test Engineer** with a B.Sc. in Physics
 
 ## Engineering Portfolio
 For my detailed cross-disciplinary hardware reports, design verifications, and complete laboratory logs across Electrical, Optical, and Automation domains:
-🔗 **[Read My Full Engineering Portfolio (Google Docs)][(https://google.com)](https://docs.google.com/document/d/1Tb6pgupiTu2QQavw6dolYQGQl6Y3FALmsouG02qJByU/edit?usp=drive_link)**
+🔗 **[Read My Full Engineering Portfolio (Google Docs)](https://docs.google.com/document/d/1Tb6pgupiTu2QQavw6dolYQGQl6Y3FALmsouG02qJByU/edit?usp=drive_link)**
 
 
 ---
