@@ -21,6 +21,12 @@ I am an **Electro-Optics Integration and Test Engineer** with a B.Sc. in Physics
 *   **Multi-Threaded Control:** Built a concurrent architecture using Python's `threading.Event` to coordinate a Keithley SMU and a Keysight Optical Power Meter simultaneously, avoiding race conditions on the instrumentation bus.
 *   **Asynchronous Safety Loop:** Integrated a live background thread to monitor sensor temperatures at ~6.6Hz, triggering a fast shutdown (`OUTP OFF`) if the system exceeds a hard 45°C safety limit.
 *   **Data Post-Processing:** Developed a pipeline using **Pandas** for structured data cleanup and **SciPy** (`curve_fit`) to calculate laser threshold current and slope efficiency, drawing the final LIV curves alongside a residuals matrix.
+  
+🔗 [Quantum Metrology Engine: Time-Variant HW Verification Framework](https://github.com/GenaTab1993/Quantum_Metrology_Engine)
+*Automated electro-optical validation suite coupling deep learning architectures with quantum physics formalisms.*
+* **Physics-Driven Deep Learning:** Engineered a multi-layer neural network (`PyTorch`) to model continuous Modulation Transfer Function (MTF) parameters and signal integrity tracks for industrial **Camelot** & **Rayonics** cameras.
+* **Schrödinger Implementation Mode:** Developed a real-time data streaming pipeline to process transient high-frequency waveforms (operating at $50\text{Hz}$) by mapping incoming parameters as dynamically evolving quantum state vectors $|\psi(t)\rangle$.
+* **Heisenberg Implementation Mode:** Implemented a continuous online calibration tracking loop to compensate for physical laboratory thermal drift over time, injecting stochastic perturbations directly into the active operator weight matrices $\mathbf{W_1}(t)$ and $\mathbf{W_2}(t)$.
 
 ---
 
