@@ -24,7 +24,7 @@ I am an **Electro-Optics Integration and Test Engineer** with a B.Sc. in Physics
   
 ### 🔗 [Quantum Metrology Engine: Time-Variant HW Verification Framework](https://github.com/GenaTab1993/Quantum_Metrology_Engine)
 *Automated electro-optical validation suite coupling deep learning architectures with quantum physics formalisms.*
-* **Physics-Driven Deep Learning:** Engineered a multi-layer neural network (`PyTorch`) to model continuous Modulation Transfer Function (MTF) parameters and signal integrity tracks for industrial **Camelot** & **Rayonics** cameras.
+* **Physics-Driven Deep Learning:** Engineered a multi-layer neural network (`PyTorch`) to model continuous Modulation Transfer Function (MTF) parameters and signal integrity tracks for industrial cameras.
 * **Schrödinger Implementation Mode:** Developed a real-time data streaming pipeline to process transient high-frequency waveforms (operating at $50\text{Hz}$) by mapping incoming parameters as dynamically evolving quantum state vectors $|\psi(t)\rangle$.
 * **Heisenberg Implementation Mode:** Implemented a continuous online calibration tracking loop to compensate for physical laboratory thermal drift over time, injecting stochastic perturbations directly into the active operator weight matrices $\mathbf{W_1}(t)$ and $\mathbf{W_2}(t)$.
 
