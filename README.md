@@ -28,6 +28,12 @@ I am an **Electro-Optics Integration and Test Engineer** with a B.Sc. in Physics
 * **Schrödinger Implementation Mode:** Developed a real-time data streaming pipeline to process transient high-frequency waveforms (operating at $50\text{Hz}$) by mapping incoming parameters as dynamically evolving quantum state vectors $|\psi(t)\rangle$.
 * **Heisenberg Implementation Mode:** Implemented a continuous online calibration tracking loop to compensate for physical laboratory thermal drift over time, injecting stochastic perturbations directly into the active operator weight matrices $\mathbf{W_1}(t)$ and $\mathbf{W_2}(t)$.
 
+### 🔗 [Camelot Electro-Optical Co-Simulation & Hardware Validation Engine](https://github.com/GenaTab1993/Camelot_Electro_Optical_Cosim)
+*Automated co-simulation environment linking discrete transient electrical circuits with dynamic lens diffraction modulation profiles.*
+* **Transient Circuit Actuation:** Modeled a low-side N-Channel MOSFET switching stage in Python (synchronized with LTspice telemetry data) operating at 50Hz with a rigid 10ms ON-pulse to capture active rail clamping and loop impedance variations.
+* **Diffraction Resolution Evaluation:** Integrated automated extraction of polychromatic FFT MTF profiles up to the physical 144.92 cycles/mm Nyquist cutoff frequency bounded by a 3.45μm pixel pitch CMOS sensor.
+* **Parametric Spec Verification:** Automated cross-validation tracking at the core 45.0 lp/mm inspection node, evaluating measured contrast scores against strict Acceptance Test Procedure (ATP) spec-limit compliance baselines (+40% minimum contrast).
+
 ---
 
 ## Engineering Portfolio
