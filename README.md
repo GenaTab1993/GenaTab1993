@@ -1,4 +1,4 @@
-# Hi, I'm Gena Tab 👋
+# Hi, I'm Genady Tabachnik 👋
 
 I am an **Electro-Optics Integration and Test Engineer** with a B.Sc. in Physics and Mathematics. I specialize in hardware automation, optical system alignment, and laboratory validation testing.
 
