@@ -35,7 +35,7 @@ I am an **Electro-Optics Integration and Test Engineer** with a B.Sc. in Physics
 * **Parametric Spec Verification:** Automated cross-validation tracking at the core 45.0 lp/mm inspection node, evaluating measured contrast scores against strict Acceptance Test Procedure (ATP) spec-limit compliance baselines (+40% minimum contrast).
 
 ### 🔗 [Theoretical Research & Visual Modeling of the Higgs Mechanism](https://github.com/GenaTab1993/Higgs-Mechanism-Particle-Physics)
-*Final Course Project - Elementary Particles Course, Department of Physics and Mathematics, University of Haifa.*
+*Final Course Project - Elementary Particles Course, Department of Physics and Mathematics, University of Haifa, 2021.*
 
 - **Theoretical Literature Review:** Conducted a comprehensive review of electroweak symmetry breaking, local gauge invariants, and non-abelian Yang-Mills field theories based on standard particle physics bibliography.
 - **Mathematical Physics Visualization:** Developed custom Python scripts using **NumPy** and **Matplotlib** to mathematically render and plot scalar field configurations, including the unstable local maximum and degenerate vacuum states (Mexican Hat Potential).
