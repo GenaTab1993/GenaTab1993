@@ -54,6 +54,6 @@ For my detailed cross-disciplinary hardware reports, design verifications, and c
 ## Contact & Logistics
 
 - **Location:** Central District, Israel
-- **Professional Profiles:** (www.linkedin.com/in/genady-tabachnik) | Email: genatab22@gmail.com
+- **Professional Profiles:** www.linkedin.com/in/genady-tabachnik | Email: genatab22@gmail.com
 - **Note to Recruiters:** I am currently working full-time lab shifts. To maintain confidentiality, **please initiate first contact via LinkedIn InMail, Email, or WhatsApp message only.** Phone calls can be scheduled for after-work hours (from 18:00 onwards) or Fridays. Thank you!
 
