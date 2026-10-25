@@ -34,6 +34,14 @@ I am an **Electro-Optics Integration and Test Engineer** with a B.Sc. in Physics
 * **Diffraction Resolution Evaluation:** Integrated automated extraction of polychromatic FFT MTF profiles up to the physical 144.92 cycles/mm Nyquist cutoff frequency bounded by a 3.45μm pixel pitch CMOS sensor.
 * **Parametric Spec Verification:** Automated cross-validation tracking at the core 45.0 lp/mm inspection node, evaluating measured contrast scores against strict Acceptance Test Procedure (ATP) spec-limit compliance baselines (+40% minimum contrast).
 
+### 🔗 [Theoretical Research & Visual Modeling of the Higgs Mechanism](https://github.com/GenaTab1993/Higgs-Mechanism-Particle-Physics)
+*Final Course Project - Elementary Particles Course, Department of Physics and Mathematics, University of Haifa.*
+
+- **Theoretical Literature Review:** Conducted a comprehensive review of electroweak symmetry breaking, local gauge invariants, and non-abelian Yang-Mills field theories based on standard particle physics bibliography.
+- **Mathematical Physics Visualization:** Developed custom Python scripts using **NumPy** and **Matplotlib** to mathematically render and plot scalar field configurations, including the unstable local maximum and degenerate vacuum states (Mexican Hat Potential).
+- **Phenomenological Illustrations:** Generated structural vector graphics to visually demonstrate spontaneous symmetry breaking concepts, phase transitions, and Goldstone boson elimination modes within the standard model framework.
+
+
 ---
 
 ## Engineering Portfolio
@@ -44,5 +52,8 @@ For my detailed cross-disciplinary hardware reports, design verifications, and c
 ---
 
 ## Contact & Logistics
-*   **Location:** Central District, Israel
-*   **Note to Recruiters:** I am currently working full-time lab shifts. To maintain confidentiality, **please initiate first contact via LinkedIn InMail, Email, or WhatsApp message only.** Phone calls can be scheduled for after-work hours (from 18:00 onwards) or Fridays. Thank you!
+
+- **Location:** Central District, Israel
+- **Professional Profiles:** [Genady Tabachnik](www.linkedin.com/in/genady-tabachnik) | Email: genatab22@gmail.com
+- **Note to Recruiters:** I am currently working full-time lab shifts. To maintain confidentiality, **please initiate first contact via LinkedIn InMail, Email, or WhatsApp message only.** Phone calls can be scheduled for after-work hours (from 18:00 onwards) or Fridays. Thank you!
+
