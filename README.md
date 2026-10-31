@@ -28,6 +28,17 @@ I am an **Electro-Optics Integration and Test Engineer** with a B.Sc. in Physics
 * **Schrödinger Implementation Mode:** Developed a real-time data streaming pipeline to process transient high-frequency waveforms (operating at $50\text{Hz}$) by mapping incoming parameters as dynamically evolving quantum state vectors $|\psi(t)\rangle$.
 * **Heisenberg Implementation Mode:** Implemented a continuous online calibration tracking loop to compensate for physical laboratory thermal drift over time, injecting stochastic perturbations directly into the active operator weight matrices $\mathbf{W_1}(t)$ and $\mathbf{W_2}(t)$.
 
+### 🔗 [Quantum Metrology Engine: Open Systems Noise Dynamics Simulator](https://github.com/GenaTab1993/quantum-metrology-open-systems)
+
+*An independent Python implementation of a quantum metrology simulation framework analyzing multi-particle registers under non-unitary environmental coupling.*
+
+- **Generalized Mixed-State QFI Engine:** Developed a spectral Lyapunov solver utilizing the Symmetric Logarithmic Derivative (SLD) representation to accurately calculate parameter estimation sensitivity bounds across discrete clock cycles.
+- **Authoritative Physical Tracking Loop:** Engineered a rigorous simulation pipeline tracking explicit density matrix parameter derivatives ($\partial_\theta\rho$) under independent amplitude damping Kraus channels (energy relaxation).
+- **Formal Verification Baseline:** Implemented automated numerical checks verifying ideal Schrödinger-Heisenberg representation invariance down to machine precision ($10^{-15}$) alongside continuous Kraus-adjoint map trace duality validation.
+
+> ⚠️ **Note on Development Status:** This repository represents an ongoing, active research framework. The computational modules, numerical experiments, and theoretical appendix benchmarks are not finalized and are subject to continuous optimization and structural adjustments in future versions.
+
+
 ### 🔗 [Camelot Electro-Optical Co-Simulation & Hardware Validation Engine](https://github.com/GenaTab1993/Camelot_Electro_Optical_Cosim)
 *Automated co-simulation environment linking discrete transient electrical circuits with dynamic lens diffraction modulation profiles.*
 * **Transient Circuit Actuation:** Modeled a low-side N-Channel MOSFET switching stage in Python (synchronized with LTspice telemetry data) operating at 50Hz with a rigid 10ms ON-pulse to capture active rail clamping and loop impedance variations.
