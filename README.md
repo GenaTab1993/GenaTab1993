@@ -1,15 +1,14 @@
-# Hi, I'm Genady Tabachnik 👋
+# Hi, I'm Genady Tabachnik 
 
-I am an **Electro-Optics Integration and Test Engineer** with a B.Sc. in Physics and Mathematics. I specialize in hardware automation, optical system alignment, and laboratory validation testing.
+I am a **Physics & Mathematics Graduate (B.Sc.) and Hardware Integration & Test Specialist**. I focus on system validation, hardware test automation, high-speed telemetry diagnostics, and electro-optical verification testing.
 
----
 
 ## Technical Skills
 
-*   **Automation & Instrumentation:** Multi-threading script development, hardware device synchronization, safety loop integration, SCPI Protocol, PyVISA, GPIB, LAN, RS-232.
-*   **Data Analysis:** Pandas DataFrames, NumPy, SciPy (curve fitting and statistical error estimation), Matplotlib visualization.
-*   **Design & Simulation:** Ansys Zemax OpticStudio (Sequential Mode, lens optimization, OPD fans), LTspice (analog circuit simulation and transient analysis).
-*   **Lab Operations:** Cleanroom and ESD-sensitive environments, precision mechanical alignment, Acceptance Test Procedures (ATP), and hardware failure analysis.
+- **Automation & Instrumentation:** Multi-threading script development, hardware device synchronization, safety loop integration, SCPI Protocol, PyVISA, GPIB, LAN, RS-232.
+- **Data Analysis, Signal Processing & ML:** Pandas DataFrames, NumPy, SciPy (curve fitting and statistical error estimation), PyTorch, Spectral Analysis (Real FFT), Anomaly Detection (MAD/Z-Score), Regex log parsing, and Matplotlib visualization.
+- **Design & Simulation:** Ansys Zemax OpticStudio (Sequential Mode, lens optimization, OPD fans), LTspice (analog circuit simulation and transient analysis).
+- **Lab Operations:** Cleanroom and ESD-sensitive environments, precision mechanical alignment, Acceptance Test Procedures (ATP), and root-cause failure analysis.
 
 ---
 
