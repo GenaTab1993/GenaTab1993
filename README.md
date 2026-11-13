@@ -52,6 +52,12 @@ I am an **Electro-Optics Integration and Test Engineer** with a B.Sc. in Physics
 - **Mathematical Physics Visualization:** Developed custom Python scripts using **NumPy** and **Matplotlib** to mathematically render and plot scalar field configurations, including the unstable local maximum and degenerate vacuum states (Mexican Hat Potential).
 - **Phenomenological Illustrations:** Generated structural vector graphics to visually demonstrate spontaneous symmetry breaking concepts, phase transitions, and Goldstone boson elimination modes within the standard model framework.
 
+### 🔗 [Telemetry-Log Root Cause Correlator](https://github.com/GenaTab1993/Telemetry-Log-Root-Cause-Correlator)
+*Automated hardware validation pipeline linking OS communication errors with analog power-rail anomalies.*
+
+- **Time-Domain Correlation:** Parses system logs via Regex to isolate lookback telemetry windows prior to PCIe Gen4-to-Gen2 link degradation events.
+- **Robust Anomaly Detection:** Uses Median Absolute Deviation (MAD) and Z-Score thresholds to pinpoint voltage droop onset and calculate exact error lead time (`40.0 ms`).
+- **Spectral Fault Isolation:** Applies Real FFT exclusively to active fault segments to prevent DC-step spectral leakage, isolating `120 Hz` switching regulator ripple.
 
 ---
 
