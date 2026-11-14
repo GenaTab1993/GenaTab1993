@@ -1,16 +1,16 @@
-# Hi, I'm Genady Tabachnik 
+# Hi, I'm Genady Tabachnik
 
-I am a **Physics & Mathematics Graduate (B.Sc.) and Hardware Integration & Test Specialist**. I focus on system validation, hardware test automation, high-speed telemetry diagnostics, and electro-optical verification testing.
-
+I am a **Physics & Mathematics Graduate (B.Sc.) and Hardware Integration & Test Specialist**. I focus on system validation, hardware test automation, high-speed signal integrity & telemetry diagnostics, and electro-optical verification testing.
 
 ## Technical Skills
 
 - **Automation & Instrumentation:** Multi-threading script development, hardware device synchronization, safety loop integration, SCPI Protocol, PyVISA, GPIB, LAN, RS-232.
-- **Data Analysis, Signal Processing & ML:** Pandas DataFrames, NumPy, SciPy (curve fitting and statistical error estimation), PyTorch, Spectral Analysis (Real FFT), Anomaly Detection (MAD/Z-Score), Regex log parsing, and Matplotlib visualization.
+- **Data Analysis, Signal Processing & ML:** Pandas DataFrames, NumPy, SciPy (curve fitting, digital filtering, and statistical BER/error estimation), PyTorch, Spectral Analysis (Real FFT), Signal Integrity (Eye Diagram, Jitter & Bathtub margin analysis), Anomaly Detection (MAD/Z-Score), Regex log parsing, and Matplotlib visualization.
 - **Design & Simulation:** Ansys Zemax OpticStudio (Sequential Mode, lens optimization, OPD fans), LTspice (analog circuit simulation and transient analysis).
 - **Lab Operations:** Cleanroom and ESD-sensitive environments, precision mechanical alignment, Acceptance Test Procedures (ATP), and root-cause failure analysis.
 
 ---
+
 
 ## Key Projects
 
@@ -57,6 +57,14 @@ I am a **Physics & Mathematics Graduate (B.Sc.) and Hardware Integration & Test 
 - **Time-Domain Correlation:** Parses system logs via Regex to isolate lookback telemetry windows prior to PCIe Gen4-to-Gen2 link degradation events.
 - **Robust Anomaly Detection:** Uses Median Absolute Deviation (MAD) and Z-Score thresholds to pinpoint voltage droop onset and calculate exact error lead time (`40.0 ms`).
 - **Spectral Fault Isolation:** Applies Real FFT exclusively to active fault segments to prevent DC-step spectral leakage, isolating `120 Hz` switching regulator ripple.
+
+### 🔗 [25G NRZ Signal Integrity Validator: Eye Diagram & BER Margin Estimator](https://github.com/GenaTab1993/25G-NRZ-Signal-Integrity-Validator)
+
+*Python-based Signal Integrity (SI) and PHY validation simulation engine for high-speed 25 Gbps serial links.*
+
+- **Physical Channel & Impairment Modeling:** Simulates 25 Gbps NRZ waveforms with Butterworth low-pass channel attenuation (ISI), Gaussian random timing jitter, and additive thermal/supply noise (AWGN).
+- **Automated Clock Data Recovery (CDR):** Detects transition crossing phases via minimum mean absolute voltage to dynamically center the 2-UI persistence eye window at `1.0 UI`.
+- **Statistical BER Bathtub Extrapolation:** Computes 3-sigma vertical Eye Height (`853.4 mV`) and horizontal Eye Width (`0.84 UI` at $\text{BER} \le 10^{-12}$) via Q-factor `erfc` tail extrapolation to automate Pass/Fail link margin validation.
 
 ---
 
